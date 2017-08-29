@@ -1,0 +1,7 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/cqdz.css: {}
+  js:
+    js/cqdz.js: {}
